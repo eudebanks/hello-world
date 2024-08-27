@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> J'ai appris beaucoup plus cette fois' </h1>
+   <h1> J'ai automatisé la CI' </h1>
 
   
 </form>
