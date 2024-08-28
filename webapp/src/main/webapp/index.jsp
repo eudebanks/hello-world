@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> J'ai automatisé la CI sur docker' </h1>
+   <h1> J'ai automatisé la CI sur docker et corrigé des erreurs' </h1>
 
   
 </form>
