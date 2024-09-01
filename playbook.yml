@@ -1,0 +1,14 @@
+---
+- hosts: tomcat
+  become: true
+  tasks:
+    - name: Create docker image
+      command: docker build - t javapp:latest .
+      args:
+        chdir: /home/vagrant/docker
+    
+    - name: create image tag 
+      command: docker tag javapp dockerbanks/mytomcat:javapp
+      
+    - name: Push images to dockerub
+      command: docker push dockerbanks/mytomcat:javapp  
