@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CICD avec Dockerhub </h1>
+   <h1> CICD avec Kubernetes </h1>
    <h1> Je n'ai pas trop galèré </h1>
   
 </form>
