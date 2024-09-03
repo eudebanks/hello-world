@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> CICD avec Kubernetes </h1>
+   <h1> CICD avec Kubernetes j'ai fini par comprendre le bug' </h1>
   
 </form>
