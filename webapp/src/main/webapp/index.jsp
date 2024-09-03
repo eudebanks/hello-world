@@ -32,6 +32,5 @@
   </div>
 
    <h1> CICD avec Kubernetes </h1>
-   <h1> j'ai trop galèré </h1>
   
 </form>
